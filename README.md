@@ -12,4 +12,4 @@
 ## Usage-
 - clone the repository or download the zip file
 - Run `php -S localhost:8000` inside `php_calender/public`
-- Go to localhost:8000[http://localhost:8000/]
+- Go to [localhost:8000](http://localhost:8000/)

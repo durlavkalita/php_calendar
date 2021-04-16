@@ -1,6 +1,6 @@
 # Calender App
 
-![preview](https://raw.githubusercontent.com/durlavk98/tweety/main/public/php_calendar.png)
+![preview](https://raw.githubusercontent.com/durlavk98/php_calendar/main/public/php_calendar.png)
 
 ## Todo -
 - [x] Create form to accept event name, event date, event time.

@@ -1,6 +1,8 @@
-# Calender App
+# <h1 align="center">Calender App</h1>
 
-![preview](https://raw.githubusercontent.com/durlavkalita/php_calendar/main/public/php_calendar.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/durlavkalita/php_calendar/main/public/php_calendar.gif" />
+</div>
 
 ## Todo -
 - [x] Create form to accept event name, event date, event time.

@@ -1,6 +1,6 @@
 # Calender App
 
-![preview](https://raw.githubusercontent.com/durlavk98/php_calendar/main/public/php_calendar.png)
+![preview](https://raw.githubusercontent.com/durlavkalita/php_calendar/main/public/php_calendar.gif)
 
 ## Todo -
 - [x] Create form to accept event name, event date, event time.
@@ -16,3 +16,10 @@
 - Configure your database and add those details on `php_calendar/database.php`
 - Run `php -S localhost:8000` inside `php_calender/public`
 - Go to [localhost:8000](http://localhost:8000/)
+
+---
+
+> [@durlav](https://durlavkalita.github.io) &nbsp;&middot;&nbsp;
+> Linkedin [@durlavkalita](https://linkedin.com/in/durlavkalita)&nbsp;&middot;&nbsp;
+> Medium [@durlavkalita](https://durlavkalita.medium.com) &nbsp;&middot;&nbsp;
+> Twitter [@durlavk98](https://twitter.com/durlavk98)
